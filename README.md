@@ -11,7 +11,7 @@ Github: https://github.com/rook0falcon   |   LinkedIn: https://www.linkedin.com/
 •	Areas of Interest: Machine Learning, Deep Learning, Natural Language Processing, Image Processing, Data Analysis, Data Engineering, Operations Research
 •	Earned Python Silver level and Problem Solving Silver Level Badges at HackerRank
 
-**MACHINE LEARNING PROJECTS:** 
+**MACHINE LEARNING PROJECTS:** <br>
 
 1. Severstal: Steel Defect Detection: (Python, Deep Learning, Multi Label Image segmentation, Supervised Learning, Tensorflow, Keras, EncodedPixels, segmentation_models library, Kaggle competition)<br>
 •	Objective:  To identify and locate defects on steel surfaces using Image Segmentation, improve Defect Detection and Localization performance by training a Deep Learning Model
@@ -23,7 +23,7 @@ Github: https://github.com/rook0falcon   |   LinkedIn: https://www.linkedin.com/
 •	Responsibilities: To develop a machine learning model to detect fraudulent transactions, hyperparameter tune XGBoost Model, maximise roc_auc_score, develop a high recall high precision model, perform EDA and process numerical and categorical data, remove redundant features with correlation analysis and NAN structure similarity, a time series data is tackled with User centered feature engineering, 6 Fold training is applied
 •	Outcomes: Model generated an roc_auc_score = 0.932 on Kaggle’s private leaderboard which is equivalent to a solution rank 76 out of 6381 submissions (top 1.2%)
 
-**ACADEMIC PROJECTS:**
+**ACADEMIC PROJECTS:**<br>
 1. Reliability Modelling of Rotor Systems with Competing Faults: (MATLAB, Predictive Maintenance, Condition Monitoring, Vibration Analysis, Finite Element Analysis, Time series data) – MTech Thesis
 •	Objective:  To identify and locate defects in rotor systems, Determine reliability, the limits of usage of the system and the competition among different defects
 •	Responsibilities: Acquire data from a rotor system, process the data by residual generation, data transformation into frequency domain, apply model matrices to generate defect equivalent forces, convert forces into stresses and determine reliability with stress and strength interference, identify the type of defect present in the rotor system from frequency distribution, determine the rotational speeds up to which the system can be used safely with 95% reliability constraints
@@ -39,6 +39,6 @@ Master of Technology in Manufacturing Engineering - CGPA 7.52<br>
 **Jodhpur National University, Jodhpur (2010 – 2014)**<br>
 Bachelor of Technology in Mechanical Engineering (72%)<br>
 
-**COURSES:** 
+**COURSES:** <br>
 Applied Artificial Intelligence, AAIC Tech Pvt Ltd <br>
 Artificial Intelligence: Problem Solving Through Search Methods, NPTEL, IITM (Aug 2018 – Oct 2018)<br>
