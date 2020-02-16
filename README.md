@@ -8,7 +8,7 @@ Github: https://github.com/rook0falcon   |   LinkedIn: https://www.linkedin.com/
 **SKILLS:**<br>
 •	Programming Languages: Python, Basic exposure to Java, C and MATLAB<br>
 •	Tools/Libraries: Scikit-Learn, DecisionTrees, Tensorflow, MySQL, Pandas, Numpy, Scipy, Seaborn, Matplotlib<br>
-•	Areas of Interest: Machine Learning, Deep Learning, Natural Language Processing, Image Processing, Data Analysis, Data Engineering, Operations Research
+•	Areas of Interest: Machine Learning, Deep Learning, Natural Language Processing, Image Processing, Data Analysis, Data Engineering, Operations Research<br>
 •	Earned Python Silver level and Problem Solving Silver Level Badges at HackerRank<br>
 
 **MACHINE LEARNING PROJECTS:** <br>
