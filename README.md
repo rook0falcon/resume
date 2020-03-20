@@ -4,7 +4,9 @@ Email: guildbilla@gmail.com    |    Location: Sainikpuri, Hyderabad, Telangana<b
 Github: https://github.com/rook0falcon   |   LinkedIn: https://www.linkedin.com/in/karthik-kumar-billa/ <br>
 
 **PROFESSIONAL SUMMARY:**<br>
-•	Self-motivated and smart working professional with 2 years of experience in Research and Development activities. 9 months of hands on experience developing Machine Learning and Deep Learning solutions to real world business problems. Eager to convert data into business achievements.<br>
+•	Self-motivated and smart working professional with 2 years of experience in Research and Development activities. Eager to convert data into business achievements.<br>
+•	Ability to implement research papers and Proficient in Applied Machine Learning skills for multiple applications including Natural Language Processing and Computer Vision.<br>
+
 
 **SKILLS:**<br>
 •	Programming Languages: Python, Basic exposure to Java, C and MATLAB<br>
